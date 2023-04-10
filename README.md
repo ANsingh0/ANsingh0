@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### About Me
+- 🌱 I’m currently learning
+  - Data Structure and Algorithms in Python
+  - Machine Learning, Deeplearning
+- 🤝 I’m looking forward to collaborate on open source projects.
+- ➕ Connect with me at: <a href="https://www.linkedin.com/in/akshay-narayan-singh-5060a0228/">Akshay Narayan Singh</a>
+
+
 <!--
 **ANsingh0/ANsingh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🙋‍♂️ Let's Connect
+<p align="center">
+  <a href="https://github.com/ANsingh0/"><img align="left" alt="AlfredDagenais.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+	<a href="https://twitter.com/AkshayNSingh_"><img align="left" alt="Akshay Narayan Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+	<a href="mailto:singhnarayanakshay@gmail.com"><img align="left" alt="Akshay Narayan Singh | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+	<a href="https://www.linkedin.com/in/akshay-narayan-singh-5060a0228/"><img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+	
+</p>
