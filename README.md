@@ -3,7 +3,7 @@
 ### About Me
 - 🌱 I’m currently learning
   - Data Structure and Algorithms in Python
-  - Machine Learning, Deeplearning
+  - Web App developement, Machine Learning, Deeplearning
 - 🤝 I’m looking forward to collaborate on open source projects.
 - ➕ Connect with me at: <a href="https://www.linkedin.com/in/akshay-narayan-singh-5060a0228/">Akshay Narayan Singh</a>
 
