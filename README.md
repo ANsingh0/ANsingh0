@@ -5,7 +5,7 @@
   - Data Structure and Algorithms in Python
   - Web App developement, Machine Learning, Deeplearning
 - 🤝 I’m looking forward to collaborate on open source projects.
-- ➕ Connect with me at: <a href="https://www.linkedin.com/in/akshay-narayan-singh-5060a0228/">Akshay Narayan Singh</a>
+- ➕ Connect with me at: <a href="[https://www.linkedin.com/in/akshay-narayan-singh-5060a0228/](https://www.linkedin.com/in/akshay-narayan-singh/)">Akshay Narayan Singh</a>
 
 
 <!--
